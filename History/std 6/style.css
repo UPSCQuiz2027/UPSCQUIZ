@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(135deg, #1e3a8a, #020617);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+.grid {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.card {
+  padding: 30px;
+  background: rgba(255,255,255,0.15);
+  border-radius: 14px;
+  text-decoration: none;
+  color: white;
+}
