@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Select Standard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Select NCERT Standard</h1>
+
+<div class="card-grid">
+  <div class="card" onclick="setStd('std6')">Class 6</div>
+  <div class="card" onclick="setStd('std7')">Class 7</div>
+</div>
+
+<script>
+function setStd(std){
+  localStorage.setItem("standard", std);
+  window.location.href = "quiz-selection.html";
+}
+</script>
+
+</body>
+</html>

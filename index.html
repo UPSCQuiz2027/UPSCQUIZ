@@ -1,14 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>UPSC Quiz Portal</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>UPSC Quiz Hub</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<h1>UPSC QUIZ PORTAL</h1>
+<h1>📘 UPSC Quiz Hub</h1>
+<p class="subtitle">Choose your subject and begin disciplined practice</p>
 
-<a href="history/index.html" class="card">History</a>
+<div class="card-grid">
+  <div class="card" onclick="go('history')">History</div>
+  <div class="card" onclick="go('geography')">Geography</div>
+  <div class="card" onclick="go('polity')">Polity</div>
+</div>
+
+<script>
+function go(subject){
+  localStorage.setItem("subject", subject);
+  window.location.href = "standards.html";
+}
+</script>
 
 </body>
 </html>

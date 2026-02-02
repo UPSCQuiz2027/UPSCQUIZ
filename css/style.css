@@ -1,0 +1,77 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+h1, h2 {
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  opacity: 0.8;
+  margin-bottom: 30px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  padding: 30px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 18px;
+}
+
+.card:hover {
+  background: #ffd369;
+  color: #000;
+  transform: scale(1.05);
+}
+
+#options button {
+  display: block;
+  width: 60%;
+  margin: 10px auto;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#options button:hover {
+  background: #ffd369;
+}
+
+button {
+  padding: 12px 25px;
+  margin-top: 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+.correct {
+  background-color: #2ecc71 !important;
+  color: black;
+}
+
+.wrong {
+  background-color: #e74c3c !important;
+  color: white;
+}
+
+#options button:disabled {
+  cursor: not-allowed;
+  opacity: 0.9;
+}

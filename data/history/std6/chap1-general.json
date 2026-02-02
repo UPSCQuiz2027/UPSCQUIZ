@@ -1,0 +1,22 @@
+[
+  {
+    "question": "History is the study of",
+    "options": [
+      "Future events",
+      "Past events",
+      "Imaginary stories",
+      "Scientific experiments"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source helps understand ancient trade?",
+    "options": [
+      "Coins",
+      "Novels",
+      "Paintings only",
+      "Myths"
+    ],
+    "answer": 0
+  }
+]

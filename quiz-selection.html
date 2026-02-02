@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Select Quiz</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h1>Choose Your Practice Mode</h1>
+
+<div class="card-grid">
+  <div class="card" onclick="start('intro','general')">Intro – General</div>
+  <div class="card" onclick="start('intro','tricky')">Intro – Tricky</div>
+  <div class="card" onclick="start('intro','pyqs')">Intro – PYQs</div>
+
+  <div class="card" onclick="start('chap1','general')">Chapter 1 – General</div>
+  <div class="card" onclick="start('chap1','tricky')">Chapter 1 – Tricky</div>
+  <div class="card" onclick="start('chap1','pyqs')">Chapter 1 – PYQs</div>
+</div>
+
+<script>
+function start(chap, level){
+  localStorage.setItem("chapter", chap);
+  localStorage.setItem("level", level);
+  window.location.href = "quiz.html";
+}
+</script>
+
+</body>
+</html>
