@@ -1,22 +1,1002 @@
 [
   {
-    "question": "History is the study of",
+    "question": "History is best defined as the study of:",
     "options": [
-      "Future events",
-      "Past events",
-      "Imaginary stories",
-      "Scientific experiments"
+      "Past political events only",
+      "Human past based on written records",
+      "Human past based on evidence",
+      "Past rulers and dynasties"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following periods is studied mainly through archaeological sources?",
+    "options": [
+      "Historical period",
+      "Protohistoric period",
+      "Medieval period",
+      "Modern period"
     ],
     "answer": 1
   },
   {
-    "question": "Which source helps understand ancient trade?",
+    "question": "Which of the following correctly distinguishes prehistory from history?",
+    "options": [
+      "Use of coins",
+      "Use of inscriptions",
+      "Absence of written records",
+      "Absence of agriculture"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The study of inscriptions engraved on hard surfaces is known as:",
+    "options": [
+      "Numismatics",
+      "Paleography",
+      "Epigraphy",
+      "Archaeology"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is NOT a material source of history?",
     "options": [
       "Coins",
-      "Novels",
-      "Paintings only",
-      "Myths"
+      "Pottery",
+      "Manuscripts",
+      "Tools"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Manuscripts in ancient India were commonly written on:",
+    "options": [
+      "Stone and metal",
+      "Palm leaves and birch bark",
+      "Copper plates only",
+      "Paper only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources is most useful for reconstructing economic history?",
+    "options": [
+      "Religious texts",
+      "Coins",
+      "Myths",
+      "Genealogies"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Numismatics helps historians mainly to understand:",
+    "options": [
+      "Religious beliefs",
+      "Social customs",
+      "Political chronology and economy",
+      "Language development"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which script was used in most Ashokan inscriptions?",
+    "options": [
+      "Devanagari",
+      "Brahmi",
+      "Kharosthi",
+      "Persian"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains why inscriptions are reliable historical sources?",
+    "options": [
+      "They are religious in nature",
+      "They are contemporary records",
+      "They are written by poets",
+      "They describe legends"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is an immovable archaeological source?",
+    "options": [
+      "Coin",
+      "Pottery",
+      "Pillar",
+      "Tool"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Archaeology primarily deals with the study of:",
+    "options": [
+      "Literary texts",
+      "Material remains",
+      "Oral traditions",
+      "Philosophical ideas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which period is known as protohistory in Indian context?",
+    "options": [
+      "Paleolithic period",
+      "Neolithic period",
+      "Harappan civilization",
+      "Vedic period"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Foreign accounts are particularly useful for studying:",
+    "options": [
+      "Prehistoric India",
+      "Medieval Europe",
+      "Ancient Indian society",
+      "Mythological traditions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following Greek writers wrote about India?",
+    "options": [
+      "Megasthenes",
+      "Pliny",
+      "Hiuen Tsang",
+      "Fa-Hien"
     ],
     "answer": 0
+  },
+  {
+    "question": "Which of the following Chinese pilgrims visited India?",
+    "options": [
+      "Megasthenes",
+      "Arrian",
+      "Fa-Hien",
+      "Ptolemy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which source helps in understanding religious practices of ancient India?",
+    "options": [
+      "Tools",
+      "Coins",
+      "Religious literature",
+      "Pottery"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is a limitation of literary sources?",
+    "options": [
+      "They are always exaggerated",
+      "They are written on perishable materials",
+      "They may be biased",
+      "They are undecipherable"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains the importance of archaeology in history writing?",
+    "options": [
+      "It provides myths",
+      "It provides direct material evidence",
+      "It explains religious doctrines",
+      "It records legends"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Paleography is the study of:",
+    "options": [
+      "Coins",
+      "Ancient scripts",
+      "Inscriptions",
+      "Archaeological sites"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following materials was most commonly used for inscriptions in ancient India?",
+    "options": [
+      "Paper",
+      "Stone and metal",
+      "Palm leaves",
+      "Cloth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources provides information about administration?",
+    "options": [
+      "Pottery",
+      "Sculptures",
+      "Inscriptions",
+      "Tools"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is NOT a literary source?",
+    "options": [
+      "Vedas",
+      "Puranas",
+      "Coins",
+      "Sangam literature"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are manuscripts considered less durable historical sources?",
+    "options": [
+      "They contain myths",
+      "They are written in difficult language",
+      "They decay easily",
+      "They are biased"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following helps historians to date archaeological remains?",
+    "options": [
+      "Paleography",
+      "Numismatics",
+      "Carbon dating",
+      "Epigraphy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of prehistoric societies?",
+    "options": [
+      "Use of writing",
+      "Use of metals",
+      "Dependence on tools made of stone",
+      "Use of coins"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following sources throws light on daily life of common people?",
+    "options": [
+      "Royal inscriptions",
+      "Coins",
+      "Pottery",
+      "Religious texts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements best describes history?",
+    "options": [
+      "Study of kings and wars",
+      "Study of legends",
+      "Scientific study of past based on evidence",
+      "Study of religious ideas"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following sources helps in reconstructing trade relations?",
+    "options": [
+      "Tools",
+      "Coins",
+      "Cave paintings",
+      "Religious texts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the earliest form of historical evidence?",
+    "options": [
+      "Manuscripts",
+      "Coins",
+      "Inscriptions",
+      "Archaeological remains"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following is a movable archaeological source?",
+    "options": [
+      "Temple",
+      "Pillar",
+      "Coin",
+      "Cave"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The reliability of archaeological sources lies in the fact that they are:",
+    "options": [
+      "Literary",
+      "Religious",
+      "Physical remains",
+      "Oral traditions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following sources is most useful for studying ancient technology?",
+    "options": [
+      "Religious texts",
+      "Archaeological tools",
+      "Foreign accounts",
+      "Myths"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following explains why foreign accounts are important?",
+    "options": [
+      "They are unbiased",
+      "They provide outsider perspectives",
+      "They are written in Sanskrit",
+      "They are archaeological"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is associated with decipherment of scripts?",
+    "options": [
+      "Archaeology",
+      "Epigraphy",
+      "Paleography",
+      "Numismatics"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following sources provides information on political boundaries?",
+    "options": [
+      "Tools",
+      "Inscriptions",
+      "Pottery",
+      "Paintings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains the limitation of archaeological sources?",
+    "options": [
+      "They are always biased",
+      "They cannot explain ideas clearly",
+      "They are written documents",
+      "They are fictional"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following materials was widely used for writing manuscripts in early India?",
+    "options": [
+      "Stone",
+      "Metal",
+      "Palm leaf",
+      "Brick"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is NOT a foreign traveller to India?",
+    "options": [
+      "Megasthenes",
+      "Fa-Hien",
+      "Hiuen Tsang",
+      "Kalidasa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which source is most useful for studying social stratification?",
+    "options": [
+      "Coins",
+      "Religious texts",
+      "Pottery",
+      "Tools"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following provides evidence of artistic development?",
+    "options": [
+      "Coins",
+      "Sculptures",
+      "Tools",
+      "Inscriptions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following statements about historical sources is correct?",
+    "options": [
+      "Literary sources are always factual",
+      "Archaeological sources are imaginary",
+      "All sources have limitations",
+      "Inscriptions are myths"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following sources helps in understanding administrative systems?",
+    "options": [
+      "Cave paintings",
+      "Inscriptions",
+      "Tools",
+      "Pottery"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is history considered a scientific discipline?",
+    "options": [
+      "It uses laboratory experiments",
+      "It relies on evidence and analysis",
+      "It is based on myths",
+      "It predicts the future"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources provides chronological information?",
+    "options": [
+      "Coins",
+      "Inscriptions",
+      "Manuscripts",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is the most durable literary source?",
+    "options": [
+      "Paper manuscripts",
+      "Palm-leaf manuscripts",
+      "Birch-bark manuscripts",
+      "None of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following best explains protohistory?",
+    "options": [
+      "Period without tools",
+      "Period without agriculture",
+      "Period with undeciphered scripts",
+      "Period with no human habitation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which source is most helpful for understanding ancient trade routes?",
+    "options": [
+      "Sculptures",
+      "Coins",
+      "Tools",
+      "Pottery"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources is least reliable for factual reconstruction?",
+    "options": [
+      "Archaeological remains",
+      "Inscriptions",
+      "Myths",
+      "Coins"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best summarizes the role of sources in history?",
+    "options": [
+      "They entertain readers",
+      "They glorify rulers",
+      "They help reconstruct the past",
+      "They promote religion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains why history is not merely a collection of facts?",
+    "options": [
+      "Facts are subjective",
+      "History involves interpretation of evidence",
+      "Evidence is always incomplete",
+      "Facts change over time"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The term ‘source of history’ refers to:",
+    "options": [
+      "Any ancient object",
+      "Anything that provides information about the past",
+      "Only written documents",
+      "Religious texts only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following periods is entirely reconstructed using archaeological evidence?",
+    "options": [
+      "Medieval period",
+      "Ancient historical period",
+      "Protohistoric period",
+      "Prehistoric period"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following is a scientific method used in archaeology?",
+    "options": [
+      "Stratigraphy",
+      "Numismatics",
+      "Epigraphy",
+      "Paleography"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The importance of archaeology increased mainly because:",
+    "options": [
+      "Literary sources are destroyed",
+      "It provides material evidence",
+      "It supports religious texts",
+      "It explains philosophy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of prehistoric societies?",
+    "options": [
+      "Stone tools",
+      "Absence of writing",
+      "Domestication of animals",
+      "Use of metal coins"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which source gives the most direct evidence of political authority?",
+    "options": [
+      "Tools",
+      "Pottery",
+      "Inscriptions",
+      "Paintings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Coins are especially useful to historians because they often contain:",
+    "options": [
+      "Religious hymns",
+      "Names and titles of rulers",
+      "Folk traditions",
+      "Agricultural practices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following disciplines helps in understanding evolution of scripts?",
+    "options": [
+      "Archaeology",
+      "Numismatics",
+      "Paleography",
+      "Anthropology"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains the limitation of inscriptions?",
+    "options": [
+      "They are written in simple language",
+      "They mostly highlight achievements of rulers",
+      "They are written on perishable material",
+      "They lack dates"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is considered a literary source?",
+    "options": [
+      "Coins",
+      "Inscriptions",
+      "Manuscripts",
+      "Sculptures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are foreign accounts important historical sources?",
+    "options": [
+      "They are always accurate",
+      "They provide external observations",
+      "They are archaeological",
+      "They describe myths"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following categories best includes tools, weapons and ornaments?",
+    "options": [
+      "Literary sources",
+      "Oral traditions",
+      "Material culture",
+      "Religious sources"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is an example of immovable heritage?",
+    "options": [
+      "Coin hoard",
+      "Seal",
+      "Cave painting",
+      "Pottery"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following periods witnessed the beginning of settled life?",
+    "options": [
+      "Paleolithic",
+      "Mesolithic",
+      "Neolithic",
+      "Chalcolithic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The use of copper along with stone tools indicates which phase?",
+    "options": [
+      "Paleolithic",
+      "Neolithic",
+      "Chalcolithic",
+      "Iron Age"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best helps in reconstructing social hierarchy?",
+    "options": [
+      "Tools",
+      "Religious texts",
+      "Pottery",
+      "Rock shelters"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is NOT an advantage of archaeological sources?",
+    "options": [
+      "They are unbiased",
+      "They are tangible",
+      "They provide economic details",
+      "They explain beliefs clearly"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is pottery considered an important archaeological source?",
+    "options": [
+      "It is decorative",
+      "It reflects daily life",
+      "It records dynasties",
+      "It contains inscriptions always"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best defines protohistory?",
+    "options": [
+      "Period without humans",
+      "Period with written history",
+      "Period with undeciphered writing",
+      "Period of iron usage"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which source is most useful for studying ancient trade networks?",
+    "options": [
+      "Sculptures",
+      "Coins",
+      "Cave art",
+      "Tools"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The study of past through excavation is known as:",
+    "options": [
+      "Epigraphy",
+      "Paleontology",
+      "Archaeology",
+      "Numismatics"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements is correct regarding manuscripts?",
+    "options": [
+      "They are permanent sources",
+      "They are always unbiased",
+      "They require careful preservation",
+      "They are archaeological remains"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a limitation common to most literary sources?",
+    "options": [
+      "They lack language",
+      "They exaggerate events",
+      "They are undecipherable",
+      "They are archaeological"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following helps in absolute dating of archaeological sites?",
+    "options": [
+      "Stratigraphy",
+      "Numismatics",
+      "Carbon dating",
+      "Epigraphy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following best reflects technological advancement of early humans?",
+    "options": [
+      "Burial practices",
+      "Cave paintings",
+      "Tool-making",
+      "Religious rituals"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are myths not considered reliable historical sources?",
+    "options": [
+      "They are written documents",
+      "They lack factual accuracy",
+      "They are archaeological",
+      "They are contemporary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is essential for writing objective history?",
+    "options": [
+      "Faith",
+      "Imagination",
+      "Evidence",
+      "Belief"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following best explains why coins are dated?",
+    "options": [
+      "They contain metal value",
+      "They show economic conditions",
+      "They mention rulers and years",
+      "They are religious objects"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following sources provides information about art and aesthetics?",
+    "options": [
+      "Tools",
+      "Sculptures",
+      "Coins",
+      "Inscriptions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor most limits our knowledge of prehistoric humans?",
+    "options": [
+      "Climate change",
+      "Absence of written records",
+      "Lack of tools",
+      "Lack of settlements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best represents cultural continuity?",
+    "options": [
+      "Repeated invasions",
+      "Continuous tool evolution",
+      "Sudden destruction",
+      "Absence of settlements"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source is most useful to understand ancient belief systems?",
+    "options": [
+      "Pottery",
+      "Religious literature",
+      "Tools",
+      "Coins"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is NOT a purpose of studying history?",
+    "options": [
+      "Understanding past societies",
+      "Learning from past mistakes",
+      "Predicting future exactly",
+      "Understanding cultural evolution"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following disciplines overlaps with history the most?",
+    "options": [
+      "Chemistry",
+      "Geography",
+      "Astronomy",
+      "Botany"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best shows transition from nomadic to settled life?",
+    "options": [
+      "Stone tools",
+      "Agriculture",
+      "Hunting",
+      "Cave paintings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources can provide demographic information?",
+    "options": [
+      "Coins",
+      "Tools",
+      "Burial sites",
+      "Paintings"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of historical period?",
+    "options": [
+      "No writing",
+      "Only stone tools",
+      "Availability of written records",
+      "Nomadic life"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains historical chronology?",
+    "options": [
+      "Arrangement of myths",
+      "Arrangement of events in time",
+      "Interpretation of legends",
+      "Study of culture"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source is least useful for reconstructing political history?",
+    "options": [
+      "Inscriptions",
+      "Coins",
+      "Tools",
+      "Official records"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following provides indirect evidence of trade?",
+    "options": [
+      "Religious texts",
+      "Foreign coins found locally",
+      "Tools",
+      "Rock paintings"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is archaeology essential for understanding early human evolution?",
+    "options": [
+      "It explains philosophy",
+      "It provides physical evidence",
+      "It records legends",
+      "It predicts behavior"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following statements about sources is correct?",
+    "options": [
+      "One source is sufficient",
+      "All sources are equally reliable",
+      "Cross-verification is necessary",
+      "Literary sources are supreme"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following helps identify cultural contacts between regions?",
+    "options": [
+      "Similar tools",
+      "Coin circulation",
+      "Cave art",
+      "Burial practices"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source best helps in reconstructing administrative systems?",
+    "options": [
+      "Pottery",
+      "Inscriptions",
+      "Tools",
+      "Sculptures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains the scope of history?",
+    "options": [
+      "Only political events",
+      "Only rulers’ lives",
+      "Social, economic and cultural aspects",
+      "Only wars"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is NOT a method of historical study?",
+    "options": [
+      "Observation",
+      "Evidence analysis",
+      "Imagination without evidence",
+      "Interpretation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following indicates earliest artistic expression?",
+    "options": [
+      "Coins",
+      "Cave paintings",
+      "Inscriptions",
+      "Manuscripts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source helps establish relative chronology?",
+    "options": [
+      "Carbon dating",
+      "Stratigraphy",
+      "Numismatics",
+      "Epigraphy"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains why history needs multiple sources?",
+    "options": [
+      "Sources contradict each other",
+      "One source is incomplete",
+      "Evidence varies in nature",
+      "All of the above"
+    ],
+    "answer": 3
   }
 ]

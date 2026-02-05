@@ -1,22 +1,312 @@
 [
   {
-    "question": "History is the study of",
+    "question": "Consider the following statements regarding history:\n1. History is only the study of political events.\n2. History is based on interpretation of evidence.\nWhich of the statements given above is/are correct?",
     "options": [
-      "Future events",
-      "Past events",
-      "Imaginary stories",
-      "Scientific experiments"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "answer": 1
   },
   {
-    "question": "Which source helps understand ancient trade?",
+    "question": "Consider the following statements about prehistoric period:\n1. Writing was unknown.\n2. Agriculture was practiced throughout the period.\nWhich of the statements given above is/are correct?",
     "options": [
-      "Coins",
-      "Novels",
-      "Paintings only",
-      "Myths"
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
     ],
     "answer": 0
+  },
+  {
+    "question": "Consider the following pairs:\n1. Epigraphy — Inscriptions\n2. Numismatics — Coins\n3. Paleography — Ancient scripts\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Consider the following statements:\n1. Archaeological sources are always unbiased.\n2. Literary sources may exaggerate facts.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Assertion (A): Inscriptions are considered reliable historical sources.\nReason (R): They are mostly contemporary records engraved on durable material.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements regarding protohistory:\n1. Writing existed but is undeciphered.\n2. It lies between prehistory and history.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements about coins as sources:\n1. Coins provide information about economy.\n2. Coins help in establishing political chronology.\n3. Coins are immovable archaeological sources.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements:\n1. Manuscripts are written on perishable materials.\n2. Manuscripts are more durable than inscriptions.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following best explains why archaeology is crucial for prehistoric studies?",
+    "options": [
+      "Literary sources are biased",
+      "Writing was unknown",
+      "Inscriptions are exaggerated",
+      "Coins were not issued"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Consider the following statements about material culture:\n1. It includes tools, pottery and ornaments.\n2. It reflects daily life of people.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements regarding foreign accounts:\n1. They provide an external perspective.\n2. They are always accurate and unbiased.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements:\n1. Paleolithic people were food gatherers.\n2. Neolithic people practiced agriculture.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following are movable archaeological sources?\n1. Coins\n2. Tools\n3. Temples",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements regarding inscriptions:\n1. They mostly record achievements of rulers.\n2. They provide information on administration.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Assertion (A): Literary sources alone are insufficient to reconstruct history.\nReason (R): Literary sources may be biased and incomplete.",
+    "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements about archaeology:\n1. It studies material remains.\n2. It can help reconstruct economic history.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best distinguishes history from mythology?",
+    "options": [
+      "Presence of heroes",
+      "Use of imagination",
+      "Reliance on evidence",
+      "Use of language"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements:\n1. Pottery helps understand daily life.\n2. Pottery is a literary source.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements about stratigraphy:\n1. It helps in relative dating.\n2. It is a scientific archaeological method.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements best reflects the scope of history?",
+    "options": [
+      "Study of rulers only",
+      "Study of wars only",
+      "Study of society, economy and culture",
+      "Study of religion only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements regarding carbon dating:\n1. It helps in absolute dating of archaeological remains.\n2. It is applicable only to stone tools.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements:\n1. Archaeological sources are essential for studying early human evolution.\n2. Archaeological sources alone can explain beliefs and ideas clearly.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are characteristics of prehistoric societies?",
+    "options": ["Absence of writing and use of stone tools", "Use of stone tools and issue of coins", "Absence of writing and issue of coins", "All of the above"],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements regarding manuscripts:\n1. They are literary sources.\n2. They are generally written on durable materials like stone.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Coins are valuable sources for reconstructing ancient history.\nReason (R): Coins often contain information about rulers, economy and chronology.",
+    "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements about epigraphy:\n1. It deals with the study of inscriptions.\n2. It helps in understanding administrative systems.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 2
+  },
+  {
+    "question": "Which source is most useful for studying daily life of common people?",
+    "options": ["Royal inscriptions", "Religious texts", "Pottery remains", "Genealogies"],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements regarding protohistory in India:\n1. Harappan civilization belongs to protohistoric period.\n2. Writing existed but has not been fully deciphered.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains why myths are not reliable historical sources?",
+    "options": ["They are written in ancient languages", "They lack material evidence", "They exaggerate or symbolize events", "They are archaeological in nature"],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements:\n1. Archaeological sources are tangible in nature.\n2. Archaeological sources are free from interpretation.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 0
+  },
+  {
+    "question": "Which discipline helps in identifying ancient scripts and their evolution?",
+    "options": ["Archaeology", "Numismatics", "Paleography", "Anthropology"],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements about historical chronology:\n1. It refers to arrangement of events in time sequence.\n2. Coins and inscriptions help establish chronology.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 2
+  },
+  {
+    "question": "Which source can provide indirect evidence of trade relations?",
+    "options": ["Stone tools", "Foreign coins found in India", "Cave paintings", "Burial sites"],
+    "answer": 1
+  },
+  {
+    "question": "Consider the following statements regarding Neolithic phase:\n1. Domestication of animals began.\n2. Permanent settlements emerged.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 2
+  },
+  {
+    "question": "Assertion (A): Archaeology is indispensable for reconstructing prehistoric history.\nReason (R): Prehistoric period lacks written records.",
+    "options": [
+      "Both A and R are true and R explains A",
+      "Both A and R are true but R does not explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT a limitation of literary sources?",
+    "options": ["Bias of authors", "Exaggeration of events", "Physical decay", "Lack of material evidence"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best reflects cultural continuity over time?",
+    "options": ["Sudden destruction layers", "Gradual tool evolution", "Foreign invasion records", "Myths and legends"],
+    "answer": 1
+  },
+  {
+    "question": "Consider the following statements:\n1. Inscriptions are often written to glorify rulers.\n2. Inscriptions are completely objective records.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": 0
+  },
+  {
+    "question": "Which source is least useful for reconstructing political history?",
+    "options": ["Coins", "Inscriptions", "Tools", "Administrative records"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best summarizes the purpose of studying history?",
+    "options": ["Memorizing dates", "Glorifying the past", "Understanding human society over time", "Preserving myths"],
+    "answer": 2
   }
 ]

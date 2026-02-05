@@ -1,12 +1,182 @@
 [
   {
-    "question": "Which of the following is NOT a physical feature?",
+    "question": "Who among the following first deciphered the Ashokan inscriptions?(UPSC Prelims 2016)",
+    "options": ["William Jones", "James Prinsep", "Max Müller", "Alexander Cunningham"],
+    "answer": 1
+  },
+  {
+    "question": "Which script was used in most of Ashoka’s inscriptions?(UPSC Prelims 2018)",
+    "options": ["Devanagari", "Brahmi", "Kharosthi", "Tamil-Brahmi"],
+    "answer": 1
+  },
+  {
+    "question": "Ashokan inscriptions suggest that the ‘Rajuka’, ‘Pradesika’ and ‘Yukta’ were officials at which level?(UPSC Prelims 2016)",
+    "options": ["Village", "District", "Provincial", "Central"],
+    "answer": 1
+  },
+  {
+    "question": "The practice of engraving inscriptions on rocks and pillars was widely prevalent in which period?(UPSC Prelims 2015)",
+    "options": ["Gupta period", "Mauryan period", "Kushana period", "Satavahana period"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the earliest deciphered script of India?(UPSC Prelims 2014)",
+    "options": ["Devanagari", "Brahmi", "Kharosthi", "Sharada"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is the study of inscriptions?(UPSC Prelims 2017)",
+    "options": ["Numismatics", "Epigraphy", "Archaeology", "Paleography"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is the study of ancient coins?(UPSC Prelims 2019)",
+    "options": ["Epigraphy", "Archaeology", "Numismatics", "Paleontology"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following sources is most useful for reconstructing the political history of ancient India?(UPSC Prelims 2013)",
+    "options": ["Archaeological remains", "Coins", "Religious literature", "Folk traditions"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is NOT a material source of history?(UPSC Prelims 2012)",
+    "options": ["Coins", "Inscriptions", "Manuscripts", "Archaeological remains"],
+    "answer": 2
+  },
+  {
+    "question": "The term ‘Epigraphy’ is related to the study of:(UPSC Prelims 2011)",
+    "options": ["Coins", "Scripts", "Inscriptions", "Manuscripts"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following provides direct evidence of administrative practices in ancient India?(UPSC Prelims 2010)",
+    "options": ["Pottery", "Inscriptions", "Sculptures", "Paintings"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is the most durable source of ancient Indian history?(UPSC Prelims 2009)",
+    "options": ["Palm-leaf manuscripts", "Paper manuscripts", "Stone inscriptions", "Birch-bark texts"],
+    "answer": 2
+  },
+  {
+    "question": "Which Harappan site is known for its elaborate water-management system?(UPSC Prelims 2021)",
+    "options": ["Rakhigarhi", "Kalibangan", "Dholavira", "Lothal"],
+    "answer": 2
+  },
+  {
+    "question": "The ‘Dancing Girl’ statue of the Indus Valley Civilization is made of:(UPSC Prelims 2019)",
+    "options": ["Stone", "Bronze", "Clay", "Copper"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following pairs is correctly matched?(UPSC Prelims 2018)",
     "options": [
-      "Mountain",
-      "Plateau",
-      "River",
-      "Road"
+      "Numismatics – Study of inscriptions",
+      "Epigraphy – Study of coins",
+      "Archaeology – Study of material remains",
+      "Paleography – Study of monuments"
     ],
-    "answer": 3
+    "answer": 2
+  },
+  {
+    "question": "Why is archaeology crucial for studying prehistoric times?(UPSC Prelims 2017)",
+    "options": [
+      "Written records are unreliable",
+      "Writing was unknown",
+      "Manuscripts were destroyed",
+      "Inscriptions were rare"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following helps in dating ancient settlements?(UPSC Prelims 2016)",
+    "options": ["Coins", "Pottery", "Carbon dating", "Inscriptions"],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following provides information about trade and economy of ancient India?(UPSC Prelims 2015)",
+    "options": ["Vedas", "Coins", "Sculptures", "Paintings"],
+    "answer": 1
+  },
+  {
+    "question": "The presence of punch-marked coins indicates:(UPSC Prelims 2014)",
+    "options": ["Pastoral economy", "Monetary economy", "Barter system", "Subsistence economy"],
+    "answer": 1
+  },
+  {
+    "question": "Which material was most commonly used for tools in the Paleolithic age?(UPSC Prelims 2013)",
+    "options": ["Copper", "Iron", "Stone", "Bronze"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an immovable archaeological remain?(UPSC Prelims 2012)",
+    "options": ["Coins", "Tools", "Pillars", "Pottery"],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following best represents material culture?(UPSC Prelims 2011)",
+    "options": [
+      "Religious texts",
+      "Coins and tools",
+      "Oral traditions",
+      "Philosophical ideas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following indicates technological advancement of early humans?(UPSC Prelims 2010)",
+    "options": ["Religious symbols", "Improved tools", "Cave paintings", "Burial practices"],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following sources helps in understanding daily life of ancient people?(UPSC Prelims 2009)",
+    "options": ["Inscriptions", "Coins", "Pottery", "Royal edicts"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the primary focus of archaeology?(UPSC Prelims 2008)",
+    "options": [
+      "Political history",
+      "Literary history",
+      "Material remains",
+      "Religious history"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is a movable archaeological source?(UPSC Prelims 2007)",
+    "options": ["Temple", "Pillar", "Coin", "Cave"],
+    "answer": 2
+  },
+  {
+    "question": "The shift from hunting-gathering to agriculture resulted in:(UPSC Prelims 2006)",
+    "options": [
+      "Nomadic life",
+      "Settled life",
+      "Decline in tools",
+      "Reduced food supply"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is associated with the Neolithic phase?(UPSC Prelims 2005)",
+    "options": [
+      "Food gathering",
+      "Domestication of animals",
+      "Cave dwelling",
+      "Use of microliths"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following best explains cultural development in early societies?(UPSC Prelims 2004)",
+    "options": ["Warfare", "Leisure time", "Migration", "Climate change"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is the most reliable source for reconstructing ancient history?(UPSC Prelims 2003)",
+    "options": ["Legends", "Myths", "Archaeological evidence", "Folk songs"],
+    "answer": 2
   }
 ]

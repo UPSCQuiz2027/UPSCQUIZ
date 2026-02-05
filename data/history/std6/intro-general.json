@@ -1,22 +1,1002 @@
 [
   {
-    "question": "History is the study of",
+    "question": "The primary purpose of studying history, as explained in the text, is to:",
     "options": [
-      "Future events",
-      "Past events",
-      "Imaginary stories",
-      "Scientific experiments"
+      "Memorise dates and dynasties",
+      "Understand how and why ancestors lived the way they did",
+      "Compare ancient and modern civilizations",
+      "Establish moral superiority of the present"
     ],
     "answer": 1
   },
   {
-    "question": "Which source helps understand ancient trade?",
+    "question": "The study of history helps us understand the present because:",
+    "options": [
+      "Past and present are completely identical",
+      "Present conditions are independent of the past",
+      "Present is shaped by historical processes",
+      "History predicts the future"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains the “treasure hunt” analogy used for history?",
+    "options": [
+      "History is about hidden wealth",
+      "Historical facts are imaginary",
+      "Evidence leads step by step to understanding the past",
+      "History involves adventure and risk"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The “treasure” in the historical treasure hunt refers to:",
+    "options": [
+      "Ancient gold and coins",
+      "Lost cities",
+      "Understanding of past human life",
+      "Royal documents"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The past of India is described as “very long” primarily because:",
+    "options": [
+      "India has many kings",
+      "Written records are abundant",
+      "Evidence goes back several thousand years",
+      "Archaeology is advanced in India"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT mentioned as an early writing material?",
+    "options": [
+      "Palm leaves",
+      "Birch bark",
+      "Copper plates",
+      "Papyrus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Before the invention of paper, records were written on all EXCEPT:",
+    "options": [
+      "Dried palm leaves",
+      "Bark of birch tree",
+      "Stone tablets",
+      "Cotton cloth"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The survival of manuscripts written on palm leaves compared to paper is generally:",
+    "options": [
+      "Less",
+      "More",
+      "Equal",
+      "Uncertain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which languages mentioned are no longer used in everyday life?",
+    "options": [
+      "Sanskrit and Arabic",
+      "Tamil and Telugu",
+      "Pali and Prakrit",
+      "Persian and Urdu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sanskrit and Arabic are still studied today mainly because they are used in:",
+    "options": [
+      "Administration",
+      "Daily communication",
+      "Religious ceremonies",
+      "Trade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tamil is considered significant because:",
+    "options": [
+      "It is no longer spoken",
+      "It has a very recent literary history",
+      "It is spoken in South India with early literature",
+      "It replaced Sanskrit"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Languages like Sanskrit, Tamil, Greek, and Latin are grouped as:",
+    "options": [
+      "Vernacular languages",
+      "Classical languages",
+      "Tribal languages",
+      "Foreign languages"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ancient European manuscripts were generally written in:",
+    "options": [
+      "Arabic and Persian",
+      "Greek and Latin",
+      "Sanskrit and Hebrew",
+      "Chinese and Tibetan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In western Asia, ancient manuscripts were commonly written in:",
+    "options": [
+      "Greek and Latin",
+      "Arabic and Hebrew",
+      "Persian and Urdu",
+      "Sanskrit and Pali"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Classical Chinese was used mainly in:",
+    "options": [
+      "Religious texts only",
+      "China",
+      "Western Asia",
+      "India"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The script used for most Sanskrit manuscripts is:",
+    "options": [
+      "Brahmi",
+      "Kharosthi",
+      "Devanagari",
+      "Sharada"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The similarity between ancient scripts and modern scripts implies that:",
+    "options": [
+      "Writing has not changed",
+      "Scripts have evolved gradually",
+      "Ancient scripts were simpler",
+      "Modern scripts are identical"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why is special training needed to read very ancient writing?",
+    "options": [
+      "It is written in code",
+      "The language is imaginary",
+      "Scripts used were very different",
+      "The ink has faded"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The very ancient writing that has not survived in manuscripts is found mainly in:",
     "options": [
       "Coins",
-      "Novels",
-      "Paintings only",
-      "Myths"
+      "Inscriptions",
+      "Paintings",
+      "Oral traditions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "An inscription is best described as writing that is:",
+    "options": [
+      "Printed on paper",
+      "Written in ink",
+      "Engraved on hard surfaces",
+      "Painted on walls"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Inscriptions were commonly engraved on all EXCEPT:",
+    "options": [
+      "Stone surfaces",
+      "Metal plates",
+      "Palm leaves",
+      "Bricks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Manuscripts are generally found in:",
+    "options": [
+      "Fields",
+      "Libraries",
+      "Rivers",
+      "Temples only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Inscriptions can be found on:",
+    "options": [
+      "Only rocks",
+      "Only pillars",
+      "Buildings and metal plates",
+      "Only caves"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Archaeology is defined as the study of:",
+    "options": [
+      "Ancient texts",
+      "Inscriptions only",
+      "Remains of the ancient past",
+      "Modern monuments"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT an archaeological remain?",
+    "options": [
+      "Coins",
+      "Pottery",
+      "Manuscripts",
+      "Tools"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Archaeology provides evidence mainly through:",
+    "options": [
+      "Oral traditions",
+      "Physical remains",
+      "Religious texts",
+      "Folk stories"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Ancient towns and villages are sometimes discovered because they were:",
+    "options": [
+      "Built underground",
+      "Abandoned or destroyed",
+      "Covered intentionally",
+      "Hidden by rulers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The process of digging out buried remains is known as:",
+    "options": [
+      "Inscription",
+      "Compilation",
+      "Excavation",
+      "Translation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Some ancient buildings like temples still exist because they:",
+    "options": [
+      "Were never used",
+      "Did not need excavation",
+      "Were built recently",
+      "Were made of mud"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Early humans described as “food-gatherers” mainly depended on:",
+    "options": [
+      "Agriculture",
+      "Trade",
+      "Nature",
+      "Industry"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Primitive life is termed so mainly because people:",
+    "options": [
+      "Had no intelligence",
+      "Lacked leisure",
+      "Had simple means of survival",
+      "Lived alone"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Food-gatherers did NOT generally:",
+    "options": [
+      "Cook food",
+      "Wear stitched clothes",
+      "Live in houses",
+      "Do all of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The transition from food-gatherer to food-producer involved:",
+    "options": [
+      "Writing",
+      "Domestication of plants and animals",
+      "Use of coins",
+      "Religious rituals"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The stage of “food-producer” is associated with:",
+    "options": [
+      "Nomadic life",
+      "Hunting only",
+      "Agriculture and animal husbandry",
+      "Cave dwelling"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Improvement in tools led early humans to:",
+    "options": [
+      "Become rulers",
+      "Lead an easier life",
+      "Stop working",
+      "Move to cities"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Leisure time became possible when people:",
+    "options": [
+      "Lived in forests",
+      "Controlled their environment better",
+      "Discovered metals",
+      "Invented writing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The ability to record thoughts indicates:",
+    "options": [
+      "Growth of culture",
+      "End of history",
+      "Decline of society",
+      "Rise of warfare"
     ],
     "answer": 0
+  },
+  {
+    "question": "Coins are important historical sources because they provide information about:",
+    "options": [
+      "Language only",
+      "Economy and rulers",
+      "Architecture only",
+      "Religion only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pottery helps historians understand:",
+    "options": [
+      "Religious texts",
+      "Daily life of people",
+      "Military strategy",
+      "Political systems"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tools made of stone and metal indicate:",
+    "options": [
+      "Artistic taste only",
+      "Level of technology",
+      "Religious belief",
+      "Writing skills"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Images and figures used as sources mainly tell us about:",
+    "options": [
+      "Economy",
+      "Administration",
+      "Cultural practices",
+      "Taxation"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why are inscriptions crucial for reconstructing history?",
+    "options": [
+      "They are decorative",
+      "They survive longer than manuscripts",
+      "They are easier to read",
+      "They are fictional"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which source is most likely to survive for thousands of years?",
+    "options": [
+      "Paper manuscript",
+      "Palm leaf manuscript",
+      "Stone inscription",
+      "Cloth record"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The introduction emphasizes that history is based on:",
+    "options": [
+      "Imagination",
+      "Myths",
+      "Evidence",
+      "Opinions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Written records belong mainly to which period?",
+    "options": [
+      "Prehistoric",
+      "Protohistoric",
+      "Historic",
+      "Paleolithic"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "When writing was unknown, knowledge of life comes from:",
+    "options": [
+      "Oral legends only",
+      "Objects left behind",
+      "Royal decrees",
+      "Foreign accounts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best reflects the interdisciplinary nature of history?",
+    "options": [
+      "History depends only on texts",
+      "History uses archaeology, scripts, and languages",
+      "History rejects science",
+      "History ignores material culture"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The introduction suggests that history is dynamic because:",
+    "options": [
+      "It changes daily",
+      "New evidence can alter understanding",
+      "It depends on opinion",
+      "It is rewritten by rulers"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The study of scripts helps historians mainly to:",
+    "options": [
+      "Learn art",
+      "Read ancient records",
+      "Understand religion only",
+      "Translate modern texts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Overall, the introduction presents history as a study of:",
+    "options": [
+      "Wars and rulers only",
+      "Ancient monuments only",
+      "Human life through evidence",
+      "Myths and legends"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Studying history helps in understanding the present mainly because:",
+    "options": [
+      "Historical events repeat themselves exactly",
+      "Social and cultural processes have continuity",
+      "Present institutions are copied from the past",
+      "History provides moral lessons only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best captures the approach of history as described in the text?",
+    "options": [
+      "Normative",
+      "Speculative",
+      "Evidence-based",
+      "Theological"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The metaphor of “treasure hunt” suggests that historical knowledge is:",
+    "options": [
+      "Hidden intentionally",
+      "Revealed through sequential clues",
+      "Available only to experts",
+      "Based on assumptions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The “clues” of history primarily refer to:",
+    "options": [
+      "Written myths",
+      "Archaeological and literary sources",
+      "Folk traditions only",
+      "Royal chronicles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following indicates the antiquity of Indian history?",
+    "options": [
+      "Continuity of traditions",
+      "Presence of oral literature",
+      "Availability of multi-millennial evidence",
+      "Large number of monuments"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Written records are more common in which phase of history?",
+    "options": [
+      "Paleolithic",
+      "Mesolithic",
+      "Neolithic",
+      "Recent past"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which material was used for writing before the invention of paper in India?",
+    "options": [
+      "Animal skin",
+      "Palm leaves",
+      "Papyrus",
+      "Wooden tablets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why have palm-leaf manuscripts survived in greater numbers than paper manuscripts?",
+    "options": [
+      "Palm leaves were thicker",
+      "Palm leaves were sacred",
+      "Paper deteriorates faster",
+      "Paper was rarely used"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following languages mentioned in the text is still spoken widely today?",
+    "options": [
+      "Pali",
+      "Prakrit",
+      "Sanskrit",
+      "Tamil"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sanskrit and Arabic are mainly preserved today because they are used in:",
+    "options": [
+      "Education systems",
+      "Administration",
+      "Religious practices",
+      "Trade networks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Languages whose early texts recorded the history of regions are termed:",
+    "options": [
+      "Vernacular languages",
+      "Tribal languages",
+      "Classical languages",
+      "Hybrid languages"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Western Asia – Greek and Latin",
+      "Europe – Arabic and Hebrew",
+      "China – Classical Chinese",
+      "India – Hebrew"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The use of multiple classical languages across regions suggests:",
+    "options": [
+      "Linguistic uniformity",
+      "Cultural isolation",
+      "Civilizational diversity",
+      "Political unity"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which script is commonly used for Sanskrit manuscripts today?",
+    "options": [
+      "Brahmi",
+      "Sharada",
+      "Kharosthi",
+      "Devanagari"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The ability to read modern scripts but not ancient scripts implies:",
+    "options": [
+      "Language change without script change",
+      "Script evolution over time",
+      "Decline of literacy",
+      "Loss of vocabulary"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Very ancient scripts are difficult to read mainly because:",
+    "options": [
+      "Ink has disappeared",
+      "They lack vowels",
+      "They differ significantly from modern scripts",
+      "They are coded"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following sources preserve the earliest forms of writing?",
+    "options": [
+      "Manuscripts",
+      "Printed books",
+      "Inscriptions",
+      "Oral traditions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An inscription differs from a manuscript in that it is:",
+    "options": [
+      "Written on paper",
+      "Meant for private reading",
+      "Engraved on durable surfaces",
+      "Written in modern language"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following surfaces was NOT commonly used for inscriptions?",
+    "options": [
+      "Stone",
+      "Copper plates",
+      "Bricks",
+      "Palm leaves"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Manuscripts were usually preserved in:",
+    "options": [
+      "Palaces",
+      "Forests",
+      "Libraries",
+      "Marketplaces"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The study of inscriptions mainly helps historians to understand:",
+    "options": [
+      "Daily household activities",
+      "Official records and proclamations",
+      "Folk traditions",
+      "Oral narratives"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Archaeology is concerned primarily with:",
+    "options": [
+      "Written texts",
+      "Oral traditions",
+      "Material remains",
+      "Religious scriptures"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an archaeological source?",
+    "options": [
+      "Vedas",
+      "Coins",
+      "Manuscripts",
+      "Chronicles"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Archaeological remains include all EXCEPT:",
+    "options": [
+      "Monuments",
+      "Coins",
+      "Pottery",
+      "Printed books"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why do archaeologists excavate ancient sites?",
+    "options": [
+      "To restore monuments",
+      "To discover buried settlements",
+      "To preserve manuscripts",
+      "To rewrite history"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following structures may not require excavation?",
+    "options": [
+      "Buried houses",
+      "Ancient wells",
+      "Standing temples",
+      "Destroyed villages"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Archaeological evidence is crucial for understanding periods when:",
+    "options": [
+      "Written records are abundant",
+      "Printing technology existed",
+      "Writing was unknown",
+      "Foreign accounts dominate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Objects used in daily life provide insights into:",
+    "options": [
+      "Political ideology",
+      "Economic conditions",
+      "Social and cultural practices",
+      "Military strategies"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Early humans dependent on nature for survival are described as:",
+    "options": [
+      "Pastoralists",
+      "Food-producers",
+      "Food-gatherers",
+      "Traders"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which feature characterizes food-gatherers?",
+    "options": [
+      "Cultivation of crops",
+      "Domestication of animals",
+      "Dependence on hunting and gathering",
+      "Permanent settlements"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is early life described as “primitive” in the text?",
+    "options": [
+      "Lack of intelligence",
+      "Absence of art",
+      "Simple means of livelihood",
+      "Absence of religion"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following was generally absent in food-gatherer societies?",
+    "options": [
+      "Tools",
+      "Weapons",
+      "Houses",
+      "Social interaction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The shift from food-gathering to food-producing indicates:",
+    "options": [
+      "Cultural decline",
+      "Technological regression",
+      "Economic transformation",
+      "Political centralization"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The domestication of plants and animals led to:",
+    "options": [
+      "Nomadic lifestyle",
+      "Increased dependence on forests",
+      "Stable food supply",
+      "Decline in tools"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Improved tools contributed directly to:",
+    "options": [
+      "Religious dominance",
+      "Leisure time",
+      "Decline of culture",
+      "Social inequality"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Leisure time enabled early humans to:",
+    "options": [
+      "Wage wars",
+      "Travel extensively",
+      "Record thoughts",
+      "Abandon settlements"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The ability to record thoughts marks the beginning of:",
+    "options": [
+      "Prehistory",
+      "Cultural development",
+      "Decline of oral tradition",
+      "Urbanization"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Coins as historical sources help reconstruct:",
+    "options": [
+      "Literary traditions",
+      "Political and economic history",
+      "Religious rituals only",
+      "Linguistic evolution only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Pottery is particularly useful to historians because it reflects:",
+    "options": [
+      "Political boundaries",
+      "Artistic imagination only",
+      "Everyday life",
+      "Military technology"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Stone and metal tools primarily indicate:",
+    "options": [
+      "Religious beliefs",
+      "Artistic taste",
+      "Technological advancement",
+      "Social hierarchy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Images and figures found in archaeological contexts help understand:",
+    "options": [
+      "Trade routes",
+      "Cultural expressions",
+      "Administrative systems",
+      "Tax structures"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following sources is least likely to perish over time?",
+    "options": [
+      "Paper manuscript",
+      "Palm leaf manuscript",
+      "Stone inscription",
+      "Birch bark manuscript"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The introduction emphasizes that historical knowledge is reconstructed using:",
+    "options": [
+      "Speculation",
+      "Faith",
+      "Evidence",
+      "Memory"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains the interdisciplinary nature of history?",
+    "options": [
+      "Use of myths and legends",
+      "Dependence on archaeology, linguistics, and material culture",
+      "Focus on political narratives",
+      "Study of religion alone"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The similarity between ancient and modern scripts suggests:",
+    "options": [
+      "No change over time",
+      "Scriptal evolution",
+      "Decline in literacy",
+      "Cultural stagnation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Inscriptions are particularly valuable because they are:",
+    "options": [
+      "Decorative",
+      "Durable",
+      "Easy to translate",
+      "Written in modern languages"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The earliest phase of human life discussed in the text is associated with:",
+    "options": [
+      "Agriculture",
+      "Domestication",
+      "Dependence on nature",
+      "Urban settlements"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best reflects the methodological approach of historians?",
+    "options": [
+      "Narrative imagination",
+      "Logical inference from evidence",
+      "Moral judgment",
+      "Philosophical speculation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The introduction implies that history is constantly evolving because:",
+    "options": [
+      "Facts change",
+      "Evidence increases and interpretations improve",
+      "Textbooks are revised",
+      "Rulers influence narratives"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Overall, the study of Indian history as presented emphasizes:",
+    "options": [
+      "Kings and battles",
+      "Religious texts",
+      "Human experience through material and written evidence",
+      "Political ideology"
+    ],
+    "answer": 2
   }
 ]

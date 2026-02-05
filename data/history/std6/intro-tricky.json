@@ -1,12 +1,702 @@
 [
   {
-    "question": "Which of the following is NOT a physical feature?",
+    "question": "Consider the following statements regarding the study of history:\n\n1. History attempts to understand how and why people lived in the past.\n2. History helps in explaining present-day social conditions.\n3. History is concerned only with political events.\n\nWhich of the statements given above are correct?",
     "options": [
-      "Mountain",
-      "Plateau",
-      "River",
-      "Road"
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements about historical evidence:\n\n1. Evidence forms the foundation of historical reconstruction.\n2. Historical evidence may be written or material.\n3. Evidence is always found in written form.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are considered \"clues\" in understanding history?\n\n1. Manuscripts\n2. Inscriptions\n3. Archaeological remains",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
     ],
     "answer": 3
+  },
+  {
+    "question": "Consider the following statements about manuscripts:\n\n1. Manuscripts are ancient books.\n2. Manuscripts were written only on paper.\n3. Palm-leaf manuscripts have survived longer than paper manuscripts.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Consider the following materials used for writing in early India:\n\n1. Palm leaves\n2. Birch bark\n3. Copper plates\n\nWhich of the above were used before the invention of paper?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following languages:\n\n1. Pali\n2. Prakrit\n3. Tamil\n\nWhich of the above are still spoken in everyday life today?",
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following languages are classified as Classical Languages in the text?\n\n1. Sanskrit\n2. Tamil\n3. Greek\n4. Latin",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Consider the following statements:\n\n1. Ancient European manuscripts were written in Greek and Latin.\n2. Western Asian manuscripts were written in Arabic and Hebrew.\n3. Classical Chinese was used in China.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Consider the following statements about scripts:\n\n1. Scripts used in ancient times differ from modern scripts.\n2. Devanagari script is used for Sanskrit manuscripts.\n3. Ancient scripts require special training to read.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why very ancient writing survives mainly in inscriptions?",
+    "options": [
+      "Inscriptions were copied repeatedly",
+      "Manuscripts were deliberately destroyed",
+      "Inscriptions were engraved on durable materials",
+      "Ancient people preferred inscriptions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Assertion (A): Inscriptions are crucial sources for ancient Indian history.\nReason (R): They are engraved on durable surfaces like stone and metal.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Manuscripts are less durable than inscriptions.\nReason (R): Manuscripts are generally written on organic materials.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Archaeology is essential for understanding periods when writing was unknown.\nReason (R): Archaeology studies material remains of the past.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Palm-leaf manuscripts have survived in large numbers.\nReason (R): Palm leaves deteriorate faster than paper.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Assertion (A): Early human life is described as primitive.\nReason (R): Early humans depended largely on nature for survival.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT an archaeological remain?",
+    "options": [
+      "Coins",
+      "Pottery",
+      "Tools",
+      "Manuscripts"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following sources is most reliable for reconstructing very ancient history?",
+    "options": [
+      "Printed books",
+      "Paper manuscripts",
+      "Stone inscriptions",
+      "Oral traditions"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which activity marks the transition from food-gathering to food-producing?",
+    "options": [
+      "Use of tools",
+      "Domestication of plants and animals",
+      "Discovery of fire",
+      "Cave dwelling"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains the significance of leisure time in early societies?",
+    "options": [
+      "It led to warfare",
+      "It enabled cultural development",
+      "It reduced productivity",
+      "It ended nomadism"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following correctly reflects the scope of history as per the introduction?",
+    "options": [
+      "Only political events",
+      "Only kings and wars",
+      "Human life based on evidence",
+      "Religious philosophy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following can be found through archaeological excavation?\n\n1. Buried towns\n2. Destroyed villages\n3. Standing temples",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following objects help understand daily life of ancient people?\n\n1. Pottery\n2. Tools\n3. Coins",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following indicate technological advancement?\n\n1. Stone tools\n2. Metal tools\n3. Weapons",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following statements best reflects the interdisciplinary nature of history?",
+    "options": [
+      "History depends only on texts",
+      "History uses archaeology, linguistics, and material culture",
+      "History ignores scientific methods",
+      "History focuses only on religion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best describes archaeology?",
+    "options": [
+      "Study of ancient languages",
+      "Study of inscriptions",
+      "Study of material remains",
+      "Study of manuscripts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The fact that ancient scripts resemble modern scripts indicates:",
+    "options": [
+      "No historical change",
+      "Gradual evolution of writing",
+      "Decline of literacy",
+      "Cultural stagnation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains why history is not static?",
+    "options": [
+      "Evidence keeps changing",
+      "New evidence can modify interpretations",
+      "Historical facts are imaginary",
+      "History depends on opinions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Coins are particularly useful to historians because they provide information about:",
+    "options": [
+      "Language only",
+      "Economy and rulers",
+      "Architecture only",
+      "Religion only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are inscriptions found across different regions of India?",
+    "options": [
+      "Uniform culture",
+      "Political centralization",
+      "Use of durable materials",
+      "Widespread literacy"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which feature distinguishes food-gatherers from food-producers?",
+    "options": [
+      "Tool usage",
+      "Dependence on nature",
+      "Domestication",
+      "Social interaction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Consider the following statements regarding historical study:\nHistory focuses on understanding human actions over time.\nHistory explains the present without reference to the past.\nHistory relies on evidence rather than imagination.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Consider the following statements about historical sources:\nAll historical sources are written records.\nMaterial objects can serve as historical evidence.\nArchaeology deals with physical remains of the past.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following are examples of material evidence?",
+    "options": [
+      "Coins and Tools only",
+      "Tools and Manuscripts only",
+      "Coins and Manuscripts only",
+      "Coins, Tools and Manuscripts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Consider the following statements about manuscripts:\nManuscripts are handwritten records.\nManuscripts were always written in modern languages.\nManuscripts help understand religious and cultural history.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following writing materials were organic in nature?",
+    "options": [
+      "Palm leaves and Birch bark only",
+      "Birch bark and Stone only",
+      "Palm leaves and Stone only",
+      "Palm leaves, Birch bark and Stone"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Ancient history often depends more on archaeology than on written texts.\nReason (R): Writing was unknown in early periods of human history.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Manuscripts are less useful than inscriptions for very ancient history.\nReason (R): Manuscripts are usually written on perishable materials.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Scripts are important for historians even when languages remain the same.\nReason (R): Scripts change over time and affect readability of texts.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Tamil occupies a unique place among Indian languages.\nReason (R): Tamil has an early literary tradition and is still widely spoken.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Assertion (A): Coins are valuable sources for economic history.\nReason (R): Coins often carry symbols, inscriptions, and metallic composition.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which one of the following is LEAST likely to provide information about daily life of ancient people?",
+    "options": [
+      "Pottery",
+      "Tools",
+      "Coins",
+      "Religious hymns"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following best explains why inscriptions are found across India?",
+    "options": [
+      "Uniform religious beliefs",
+      "Centralized political authority",
+      "Use of durable writing surfaces",
+      "Common spoken language"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following activities would an archaeologist MOST likely engage in?",
+    "options": [
+      "Translating manuscripts",
+      "Studying folk songs",
+      "Excavating ancient settlements",
+      "Interpreting religious texts"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is NOT a characteristic of food-gatherer societies?",
+    "options": [
+      "Dependence on nature",
+      "Domestication of animals",
+      "Simple tools",
+      "Nomadic lifestyle"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following best marks the beginning of settled life?",
+    "options": [
+      "Use of fire",
+      "Hunting",
+      "Agriculture",
+      "Tool-making"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements correctly describe inscriptions?",
+    "options": [
+      "They are engraved on hard surfaces and survive longer than manuscripts",
+      "They survive longer and are always written in Sanskrit",
+      "They are engraved on hard surfaces and always written in Sanskrit",
+      "They are engraved on soft surfaces"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following statements about archaeology are correct?",
+    "options": [
+      "It studies monuments and tools and helps reconstruct pre-writing societies",
+      "It depends entirely on written sources",
+      "It studies only languages",
+      "It ignores material remains"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following are indicators of technological development?",
+    "options": [
+      "Improvement in tools and use of metals",
+      "Improvement in tools only",
+      "Ability to write only",
+      "Use of metals and writing"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following statements regarding classical languages are correct?",
+    "options": [
+      "They recorded early histories and influenced later languages",
+      "They are no longer studied today",
+      "They had no influence on later languages",
+      "They were used only for religion"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following statements best explain why history is evidence-based?",
+    "options": [
+      "Evidence provides verifiability and reduces speculation",
+      "Evidence eliminates interpretation",
+      "Evidence is always written",
+      "Evidence is always objective"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The survival of ancient knowledge despite loss of manuscripts is mainly due to:",
+    "options": [
+      "Oral traditions",
+      "Inscriptions and material remains",
+      "Continuous rewriting of texts",
+      "Foreign travelers’ accounts"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which factor most directly enabled early humans to move from survival to reflection?",
+    "options": [
+      "Climate change",
+      "Domestication",
+      "Leisure time",
+      "Migration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The term “primitive” as used in the text should be understood as referring to:",
+    "options": [
+      "Inferiority",
+      "Moral backwardness",
+      "Early stage of livelihood",
+      "Absence of culture"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is the study of scripts crucial even when the language is known?",
+    "options": [
+      "Scripts determine pronunciation",
+      "Scripts affect interpretation of texts",
+      "Scripts change faster than language",
+      "Scripts determine grammar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best demonstrates continuity between past and present?",
+    "options": [
+      "Survival of monuments",
+      "Evolution of scripts",
+      "Change in tools",
+      "Abandonment of towns"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following combinations is correctly matched?\nCoins – Economy\nPottery – Daily life\nTools – Technology",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why historians compare evidence from different regions?",
+    "options": [
+      "To establish uniformity",
+      "To identify cultural diversity",
+      "To rank civilizations",
+      "To find the oldest society"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following best captures the idea of historical reconstruction?",
+    "options": [
+      "Memorization of facts",
+      "Logical inference from evidence",
+      "Storytelling",
+      "Moral interpretation"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Why are material remains crucial for understanding societies without writing?",
+    "options": [
+      "They replace written records",
+      "They reflect actual human activity",
+      "They are easier to interpret",
+      "They are ideologically neutral"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following developments most clearly distinguishes human history from prehistory?",
+    "options": [
+      "Tool-making",
+      "Use of fire",
+      "Writing",
+      "Migration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following would MOST likely survive for several thousand years?",
+    "options": [
+      "Palm-leaf manuscript",
+      "Paper record",
+      "Stone inscription",
+      "Cloth painting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The introduction emphasizes archaeology mainly because it:",
+    "options": [
+      "Is more scientific than history",
+      "Deals with rulers and dynasties",
+      "Provides evidence where texts are absent",
+      "Is independent of history"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains the need for special training in reading ancient scripts?",
+    "options": [
+      "Scripts lack grammar",
+      "Scripts differ structurally from modern ones",
+      "Scripts are symbolic only",
+      "Scripts are undeciphered"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The discovery of buried towns suggests that ancient settlements were:",
+    "options": [
+      "Always temporary",
+      "Frequently abandoned or destroyed",
+      "Built underground intentionally",
+      "Isolated from trade routes"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is the most comprehensive source for understanding ancient life?",
+    "options": [
+      "Manuscripts alone",
+      "Inscriptions alone",
+      "Archaeology alone",
+      "Combination of all evidence"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why are tools considered reliable historical sources?",
+    "options": [
+      "They are decorative",
+      "They indicate technological capability",
+      "They contain written records",
+      "They are religious objects"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best indicates the emergence of cultural life?",
+    "options": [
+      "Hunting",
+      "Domestication",
+      "Recording thoughts",
+      "Migration"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The study of early human life shows that economic changes led to:",
+    "options": [
+      "Political centralization",
+      "Cultural stagnation",
+      "Social transformation",
+      "Religious decline"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best reflects the objective of studying Indian history as stated in the text?",
+    "options": [
+      "To glorify the past",
+      "To criticize ancestors",
+      "To understand human development",
+      "To establish political narratives"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Overall, the introduction presents history as a discipline that is:",
+    "options": [
+      "Descriptive and speculative",
+      "Evidence-based and analytical",
+      "Philosophical and moral",
+      "Literary and narrative"
+    ],
+    "answer": 1
   }
 ]
